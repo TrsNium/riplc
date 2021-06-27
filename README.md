@@ -3,7 +3,7 @@ hiplcの墓場
 
 nixie.hiplc
 
-![nixie](https://user-images.githubusercontent.com/11388424/123534286-133fb180-d757-11eb-8c5e-453d58a1de3f.jpg)
+![nixie_white](https://user-images.githubusercontent.com/11388424/123547796-1d849e80-d79d-11eb-8cfc-5dac6a473afd.jpg)
 
 </divider>
 
