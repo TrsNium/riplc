@@ -46,5 +46,5 @@ texture and pre-similated geo is [here](https://drive.google.com/drive/folders/1
 
 map.hiplc
 
-![Screenshot 2021-09-03 20-13-09](https://user-images.githubusercontent.com/11388424/131996863-5417237e-6996-4714-882b-d35b00195a46.png)
+![Screenshot 2021-09-03 20-16-07](https://user-images.githubusercontent.com/11388424/131996978-9bc06531-d63b-4c14-a406-11a4ad2b4f1a.png)
 
