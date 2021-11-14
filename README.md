@@ -48,9 +48,16 @@ map.hiplc
 
 ![Screenshot 2021-09-03 20-16-07](https://user-images.githubusercontent.com/11388424/131996978-9bc06531-d63b-4c14-a406-11a4ad2b4f1a.png)
 
-</divider>
+
+</divider/>
 
 moon.hiplc
 
 ![moon Octane_ROP1 0045_60](https://user-images.githubusercontent.com/11388424/132134235-d8061c4c-dd8b-4730-a39e-2d231cef7822.png)
+
+</divider>
+
+road_without_fbx_texture.hiplc
+
+![load Redshift_ROP1 0015](https://user-images.githubusercontent.com/11388424/141674551-d0178e4f-d2e8-4d18-8919-9e5b23524c0b.png)
 
