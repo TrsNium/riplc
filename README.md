@@ -64,3 +64,6 @@ road_without_fbx_texture.hiplc
 cable.hiplc
 ![Screenshot 2021-12-16 03-00-07](https://user-images.githubusercontent.com/11388424/146633477-b93b7589-6c71-4fff-9906-25e901e91d11.png)
 
+syaji-template.hiplc
+![syaji](https://user-images.githubusercontent.com/11388424/202391508-29dc2c60-f496-4a12-b4ff-aad927fd8662.png)
+
