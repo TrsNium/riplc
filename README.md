@@ -61,3 +61,6 @@ road_without_fbx_texture.hiplc
 
 ![load Redshift_ROP1 0015](https://user-images.githubusercontent.com/11388424/141674551-d0178e4f-d2e8-4d18-8919-9e5b23524c0b.png)
 
+cable.hiplc
+![Screenshot 2021-12-16 03-00-07](https://user-images.githubusercontent.com/11388424/146633477-b93b7589-6c71-4fff-9906-25e901e91d11.png)
+
